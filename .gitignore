@@ -1,0 +1,23 @@
+# OS / editor noise
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs and runtime artifacts
+logs/
+*.log
+
+
+# Temporary files / FIFOs / scratch
+tmp/
+*.fifo
+
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
