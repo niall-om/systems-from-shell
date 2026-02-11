@@ -122,6 +122,12 @@ Ideally this approach will surface the kinds of "oh, that's why this exists" mom
 >These notes are **conceptual**, not project-specific
 
 
+## Project Ideas
+
+For future expansions and experimental ideas, see  
+👉 [Project Ideas](project_ideas.md)
+
+
 ## Project Index
 
 This section lists concrete system design experiments contained in the `projects/` directory. Projects will evolve over time as understanding deepens. Earlier versions are kept intentionally to document learning process.
