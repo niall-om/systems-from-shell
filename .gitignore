@@ -1,4 +1,4 @@
-# OS / editor noise
+# OS Junk / editor noise
 .DS_Store
 *.swp
 *.swo
@@ -8,13 +8,17 @@
 
 # Logs and runtime artifacts
 logs/
+**/logs/
 *.log
+
+**/state/
+**/data/
+**/run/
 
 
 # Temporary files / FIFOs / scratch
 tmp/
 *.fifo
-
 
 # Environment / secrets
 .env
