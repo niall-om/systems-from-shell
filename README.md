@@ -6,6 +6,18 @@ This repository documents my learning journey as I explore Operating System fund
 
 The repository is a collection of hands-on experiments exploring **operating system primitives, Bash shell scripting, and systems design concepts** using the Unix toolchain. The core idea is to use **Shell + OS primitives** (processes, pipes, FIFOs, file descriptors, signals, blocking semantics, etc.) as a low-level playground for understanding what higher-level systems and frameworks are doing under the hood.
 
+## 🚧 Work in Progress
+
+This repository is currently under active development.
+
+The `feat/01-cli-task-runner` branch contains an early implementation of a CLI task runner built using Bash and the filesystem.
+
+The goal is to explore:
+- shell scripting
+- process execution
+- filesystem-based state management
+- core OS concepts
+
 ---
 ## What this repo is (and isn't)
 This repo **is**:
