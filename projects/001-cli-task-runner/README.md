@@ -25,7 +25,7 @@ The CLI must support:
 
 `./task.sh add "Task description"`  
 `./task.sh list`  
-`./task.sh done <task_id>`  
+`./task.sh done <task_id>`
 `./task.sh delete <task_id>`  
 `./task.sh help`
 
